@@ -18,13 +18,13 @@ body {
   width: 350px;
 }
 
-#verification_heading {
+.verification_heading {
   font-size: 24px;
   margin-bottom: 10px;
 	justify-content:center;
 }
 
-#verification_subtext {
+.verification_subtext {
   font-size: 14px;
   color: #666;
   margin-bottom: 30px;
